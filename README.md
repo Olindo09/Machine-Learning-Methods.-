@@ -5,9 +5,9 @@ This repository contains two Jupyter notebooks that demonstrate **supervised mac
 ---
 
 ## 📂 Contents
-- `02_housing_regression_westroxbury.ipynb`  
+- `housing_regression_westroxbury.ipynb`  
   Regression analysis on a housing dataset.  
-- `05_cereals_classification_logreg_metrics.ipynb`  
+- `cereals_classification_logreg_metrics.ipynb`  
   Classification and regression metrics demonstration using a cereals dataset.  
 
 ---
@@ -27,7 +27,7 @@ This repository contains two Jupyter notebooks that demonstrate **supervised mac
 
 ## 🧑‍💻 Methods Used
 
-### 1. `02_housing_regression_westroxbury.ipynb`
+### 1. `housing_regression_westroxbury.ipynb`
 - **Data preprocessing**: Pandas-based inspection, handling columns/rows.  
 - **Train/Test Split**: Dataset partitioned using `sklearn.model_selection.train_test_split`.  
 - **Modeling approach**: Prepares data for regression analysis (Linear Regression).  
@@ -35,7 +35,7 @@ This repository contains two Jupyter notebooks that demonstrate **supervised mac
 
 ---
 
-### 2. `05_cereals_classification_logreg_metrics.ipynb`
+### 2. `cereals_classification_logreg_metrics.ipynb`
 - **Data preprocessing**:  
   - Handled using `pandas`.  
   - Feature scaling with `StandardScaler`.  
